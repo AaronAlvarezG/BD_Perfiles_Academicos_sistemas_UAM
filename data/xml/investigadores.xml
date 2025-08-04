@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<all>
+	<item type="dict">
+		<ID_investigador type="str">INV0001</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Ana Lilia Concepción Laureano Cruces</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/32545</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel II del SNII. Área V Humanidades</Puesto>
+		<Semblanza type="str">La Doctora Ana Lilia Laureano Cruces nació en la Ciudad de México. Obtuvo el grado de Ingeniero Civil con especialidad en estructuras en la Facultad de Ingeniería-UNAM. Es Maestra en Ciencias de la Computación grado que obtuvo en el Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas de la UNAM y Doctora en Ciencias por el Instituto de Investigaciones Biomédicas - UNAM.
+
+Se incorporó a la Universidad Autónoma Metropolitana en septiembre de 1987, donde actualmente es profesor Titular C de tiempo completo en el Departamento de Sistemas. Es miembro del Sistema Nacional de Investigadores (Nivel II). Ha publicado más de 20 artículos en revistas internacionales con riguroso arbitraje y más de 50 artículos en memorias de congresos nacionales e internacionales'.
+
+Ha impartido más de 60 asignaturas a nivel licenciatura y más de 20 asignaturas a nivel posgrado, actualmente participa como profesora en el Posgrado en Ciencia e Ingeniería en Computación de la UNAM en el área de Inteligencia Artificial y en el de Visualización de la Información de la División de Ciencias y Artes para el Diseño de la UAM Unidad Azcapotzalco. Ha participado activamente en el asesoramiento de proyectos terminales en la UAM y de Tesis de Maestría en la UAM Unidad Azcapotzalco y la UNAM.
+
+Además ha sido la responsable de Proyectos de Investigación financiados por organismos externos, CONACyT y de la UAM. Entre 1998 y 2000 estuvo como investigadora invitada en el Departamento de Sistemas del Instituto de Automática Industrial del Consejo Superior de Investigaciones Científicas (CSIC), Madrid - ESPAÑA. Entre septiembre de 2011- abril de 2013 en periodo de investigación sabática como profesor invitado en el `Laboratorio de Informática, de la Universidad de Aviñon y de los Países Vaucluse' en FRANCIA. Su trabajo de investigación se centró en la consciencia artificial, desde una perspectiva de las emociones.
+
+Sus principales áreas de interés en investigación son: sistemas expertos y sistemas Inteligentes aplicados al proceso de enseñanza-aprendizaje; computación afectiva (emociones cognitivas); agentes reactivos; agentes pedagógicos; arquitecturas multi-agente; análisis conductual; control adaptativo, ingeniería cognitiva; representación del conocimiento; consciencia artificial, interfaces inteligentes.</Semblanza>
+		<Correo_electrónico type="str">clc@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-5451-0175</ORCID_id_autor>
+		<ID_autor_Scopus type="str">6507040072.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.es/scholar?hl=es&amp;as_sdt=0%2C5&amp;q=ana+lilia+laureano+cruces&amp;btnG=</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Combinatoria, algoritmos y optimización,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Sistemas Expertos y Sistemas Inteligentes aplicados al proceso de enseñanza-aprendizaje,  Computación afectiva y Consciencia Artificial,  Arquitecturas Multi-Agente,  Ingeniería Cognitiva y Representación del Conocimiento,  Interfaces inteligentes y antropoformización de espacios.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 4 Educación de calidad,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0002</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Ángeles Belem Priego Sánchez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/82111</Perfil_institucional>
+		<Puesto type="str">Profesora Asociada de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área V Humanidades</Puesto>
+		<Semblanza type="str">La Dra. Angeles Belém Priego Sánchez actualmente, es profesora-investigadora de la Universidad Autónoma Metropolitana (UAM), Unidad Azcapotzalco. Realizó sus estudios de Licenciatura y de Maestría en Ciencias de la Computación en la Benemérita Universidad Autónoma de Puebla (BUAP), del 2005 al 2009 y del 2010 al 2012, respectivamente. Obtuvo el grado de Doctor en Ciencias del Lenguaje en la Universidad París 13, Sorbonne Paris Cité, Francia (2013-2016).
+
+Tiene el nombramiento de Investigador Nacional otorgado por el Sistema Nacional de Investigadores a través del Consejo Nacional de Ciencia y Tecnología (CONACYT). Pertenece a la Red Temática de Tecnologías del Lenguaje del CONACYT, es miembro de la Academia Mexicana de Computación, la Sociedad Mexicana de Inteligencia Artificial y de las acciones del European Cooperation and Science and Technology (COST), una organización de financiación para redes de investigación e innovación. Además, forma parte del comité de membresía de la Asociación Mexicana para el Procesamiento del Lenguaje Natural.
+
+Su principal área de investigación es la interacción entre las computadoras y el lenguaje humano, centrándose en lingüística computacional, procesamiento de lenguaje natural e inteligencia artificial. Específicamente en la fraseología y el análisis de sentimientos. Es autora y co-autora de más de 30 publicaciones, incluyendo capítulos de libros y artículos en revistas indexadas nacionales e internacionales. Ha impartido más de 40 conferencias en eventos especializados nacionales e internacionales. Asimismo, ha organizado más de 10 congresos y simposios de carácter académico y dirigido, en los últimos dos años, alrededor de 10 tesis de licenciatura y una maestría.</Semblanza>
+		<Correo_electrónico type="str">abps@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-3439-1081</ORCID_id_autor>
+		<ID_autor_Scopus type="str">56341398400.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=p4lXaX4AAAAJ&amp;hl=es</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Sistemas de información,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Procesamiento de Lenguaje Natural,  Lingüística Computacional,  Fraseología,  Recuperación de Información,  Análisis de Sentimientos.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 4 Educación de calidad,  9 Industria, innovación e infraestructura,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0003</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Beatriz Adriana González Beltrán</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/60731</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área V Humanidades</Puesto>
+		<Semblanza type="str">La Dra. Beatriz Adriana González Beltrán tiene el grado de Licenciatura en Informática otorgado por el Tecnológico Nacional de México, campus Tepic (anteriormente Instituto Tecnológico de Tepic), la Maestría en Sistemas de Información por la Université Grenoble Alpes (anteriormente Université Joseph Fourier Grenoble I), Francia, y el Doctorado con la especialidad en Sistemas de Información por Grenoble INP - Université Grenoble Alpes (anteriormente Institut National Polytechnique De Grenoble ), Francia.
+
+Es profesora Titular de Carrera C de Tiempo Completo en el Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Universidad Autónoma Metropolitana, Unidad Azcapotzalco. Tiene el reconocimiento otorgado por el Sistema Nacional de Investigadoras e Investigadores de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (anteriormente Consejo Nacional de Humanidades, Ciencias y Tecnologías) y el reconocimiento a Profesores de Tiempo Completo con Perfil Deseable de la Secretaría de Educación Pública.
+
+Ha impartido más de 100 cursos de licenciatura y más de 20 cursos de posgrado. En su producción académica cuenta con más de 25 publicaciones, incluyendo capítulos de libros y artículos en revistas indexadas nacionales e internacionales. También ha impartido conferencias y participado como ponente en eventos especializados nacionales e internacionales. Ha organizado más de 10 congresos, simposios o coloquios. Ha dirigido más de 35 proyectos de integración de licenciatura, 7 de maestría y 4 de doctorado.
+
+Sus intereses de investigación se dirigen hacia la computación centrada en el humano, la inteligencia artificial centrada en el humano y el cómputo aplicado a la salud y a la educación. De manera particular, ha trabajado en los aspectos de usabilidad y accesibilidad en el desarrollo de software, el diseño centrado en el usuario y de experiencia del usuario. En sus proyectos más recientes, ha integrado el aprendizaje automático y el procesamiento del lenguaje natural para resolver problemas en las áreas de la educación y de la salud.</Semblanza>
+		<Correo_electrónico type="str">bgonzalez@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-1718-9060</ORCID_id_autor>
+		<ID_autor_Scopus type="str">57188683966.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=rxtXZ5kAAAAJ&amp;hl=es&amp;oi=ao</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Sistemas de información,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Computación centrada en el humano,  Inteligencia artificial centrada en el humano,  Cómputo aplicado a la salud y a la educación.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 3 Salud y bienestar,  4 Educación de calidad,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0004</ID_investigador>
+		<Nombre_Investigador type="str">Dr. César Augusto Real Ramírez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/61673</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">El profesor César Augusto Real Ramírez nació en la Ciudad de México en 1977, realizó sus estudios de licenciatura en Ingeniería Mecánica en el Instituto Politécnico Nacional y concluyó en 2000. Realizó sus estudios de maestría en Ingeniería Mecánica y concluyó en el 2004 también en el IPN. En 2008 concluyó sus estudios de doctorado en Ciencias e Ingeniería de Materiales en la Universidad Autónoma Metropolitana.
+
+Es profesor titular de carrera, adscrito al Departamento de Sistemas en la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM. Tiene 26 artículos publicados en revistas de alto impacto JCR enlistadas en Scopus. Es evaluador de artículos de investigación en diferentes revistas internacionales de alto impacto JCR.
+
+Ha participado como responsable técnico en diferentes proyectos de investigación patrocinados. Es responsable del Laboratorio de Visualización y Cómputo Científico de la DCBI en la Unidad Azcapotzalco de la UAM. Ha publicado un libro y dos capítulos de libros en la Universidad Autónoma Metropolitana. Es evaluador de proyectos de investigación del Consejo Nacional de Ciencia y Tecnología (Conacyt).
+
+Ha participado en la elaboración y actualización de los planes y programas de estudio y tambien en dos procesos de acreditación ante el CACEI a traves del Comité de estudios de las licenciaturas de Ingeniería Química y de Ingeniería Eléctrica en la Universidad Autónoma Metropolitana.
+
+Desde el 2015 al año 2021 participo como Coordinador Académico Divisional de Tecnologías de la Información en la División de Ciencias Básicas e Ingeniería de la Universidad Autónoma Metropolitana.
+
+Tambien forma parte del comité académico de validación de casos y como sinodal en el Centro Nacional de Evaluación para la Educación Superior CENEVAL para la carrera de Ingeniería Mecánica. Finalmente, tiene la distinción del perfil PRODEP por parte de la Secretaría de Educación Pública y tiene la distinción del Conacyt como Investigador Nacional Nivel I.</Semblanza>
+		<Correo_electrónico type="str">carr@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-0376-3575</ORCID_id_autor>
+		<ID_autor_Scopus type="str">26653758600.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.es/citations?hl=es&amp;user=zXo_aPIAAAAJ</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Cómputo y visualización científica,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Colada continua de acero,  Fluidos multifásicos,  Hidrodinámica,  experimentación física,  simulación numérica.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 4 Educación de calidad,  7 Energía asequible y no contaminante,  9 Industria, innovación e infraestructura,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0005</ID_investigador>
+		<Nombre_Investigador type="str">Prof. Enrique Alarcón Jiménez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/40783</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel A de Medio Tiempo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Enrique Alarcón Jiménez es Ingeniero Mecánico, egresado de la Universidad Autónoma Metropolitana, cuenta con una trayectoria profesional de 27 años en áreas: técnicas, comerciales, adquisiciones, consultoría, innovación, mantenimiento, propiedad intelectual, economía circular, consejo de administración, servicio público, docencia, entre otras. Se ha desarrollado En diversos sectores Industriales y Académicos, que incluye tecnologías de la información, industria del plástico, bienes de capital, industria de la construcción, industria automotriz, autopartes, Vinculación Universidad-Industria, Propiedad Industrial, Derechos de Autor, Adopción y Asimilación de Tecnología, análisis de probabilidad de alineamiento de políticas públicas con los tratados comerciales firmados por México y, ha sido docente en Instituciones de Educación Superior en México durante tres décadas, enfocándose en la enseñanza de la ingeniería orientada a mejora de procesos , planificación y ejecución de proyectos, incremento de la productividad y competitividad empresarial; así como minería del proceso de la comunicación oral y escrita en las organizaciones empresariales.
+
+Ha colaborado en Empresas, Instituciones y Organismo Empresariales de renombre como Grupo Vitro, Nissan Motor Co, Negri Bossi ltd, Grupo Industrial Atlas, ABC Plastics, Co. Vactor ltd, Grupo Industrial MC, Universidad Autónoma Metropolitana Unidad Azcapotzalco (UAM), Universidad Tecnológica de México Campus Marina Nacional (UNITEC), el Instituto Politécnico Nacional (IPN), Confederación Patronal de la República Mexicana, S.P. (COPARMEX), Centro Empresarial de la CDMX de la COPARMEX-CDMX (COPARMEX-CDMX), Consejo Nacional de Ciencia y Tecnología (CONACyT), Instituto de Ciencia y Tecnología del Distrito Federal (ICyTDF), Fundación Educación Superior Empresa, A.C (FESE) y el Instituto Nacional de Desarrollo Social (INDESOL).
+
+Ha contribuido en la formación de más de 3,500 egresados de ingeniería, principalmente en Ingeniería Industrial, Mecánica, Química, Metalúrgica, Ambiental, Física, Eléctrica y Electrónica. Ha impartido más de 350 cursos para la formación de ingenieros, destacando aquellos dirigidos a incrementar la productividad de sistemas productivos, planeación y ejecución de proyectos, toma de decisiones basadas en datos, así como minería del proceso de comunicación oral y escrita en las organizaciones empresariales. Responsable de asesorar al menos 60 proyectos Terminales y de Integración. Encargado de dos proyectos de Servicio Social, en los que han participado mas de 150 alumnos de diferentes Licenciaturas en Ingeniería, de Artes y Diseño; así como de Ciencias Sociales y Humanidades. Le concedió el Instituto Mexicano de la Propiedad Industrial (IMPI) cinco diseños industriales, tiene pendiente una solicitud de patente relacionada con manufactura de bienes basados en principios y técnicas derivadas de economía circular, una solicitud pendiente de registro de Logotipo y Marca. Desarrollo de secreto industrial para la fabricación de los productos registrados en los diseños industriales, empleando materiales residuales post-producción.
+
+Destaca por su habilidad para identificar, asimilar, transferir y formar capital humano de alto perfil en las mejores prácticas existentes en el campo de la ingeniería de mejora de procesos productivos, con el objeto de incrementar la seguridad, eficiencia y rentabilidad del negocio; procurando la obtención de índices de progreso de doble dígito, armonizando los índices de inflación del proceso productivo negativamente respecto a los índices gubernamentales. Busca obtener resultados tangibles que se reflejen en la reducción de tiempos de respuesta, eliminación de cuellos de botella, incrementar la capacidad de producción, mejorar márgenes de operación, escalabilidad de operaciones, reducción de costos, incremento de ingresos, aumentar el padrón de clientes, incrementar la seguridad industrial, etc. Adicionalmente, vincula lo anterior con criterios ESG (ambientales, sociales y de gobernanza) aplicados a la industria mexicana e internacional, para asegurar un manejo responsable y sustentable de los recursos y procesos productivos. Para ello, utiliza herramientas y técnicas de última generación: minería de procesos, inteligencia artificial, simulación de procesos, gemelos digitales, gestión y administración de proyectos, ciencia de datos, Patent T-Growth Hacking, entre otros. Enfocándose en obtener una operación y ejecución impecable en el sistema productivo y sus componentes.
+
+Entre sus contribuciones al ámbito académico y empresarial, destaca su papel como miembro del comité de becas para estudios en el extranjero de Ingeniería Industrial del Consejo Nacional de Ciencia y Tecnología (CONACyT). Ha sido evaluador de proyectos de innovación y de desarrollo tecnológico, postulados por el sector empresarial al Instituto de Ciencia y Tecnología del Distrito Federal (ICyTDF), la Fundación Educación Superior Empresa, A.C (FESE). Se ha desempeñado como dictaminador de proyectos de impacto social, postulados por grupos organizados de la sociedad, en el Instituto Nacional de Desarrollo Social (INDESOL). Además, ha participado en Organismos Empresariales: la Confederación Patronal de la República Mexicana, S.P. (COPARMEX), como integrante de la Comisión Nacional de Desarrollo Empresarial en la cual fue nombrado Vicepresidente de la Subcomisión de Estudios Prospectivos, fue designado Director del Centro de Evaluación de Políticas Públicas del Centro Empresarial CDMX de COPARMEX y participó como colaborador de la Vicepresidencia de Desarrollo Empresarial COPARMEX-CDMX. Responsable del Centro de Patentamiento del IPN “Guillermo González Camarena” y Subdirector de Transferencia de Tecnología en la Unidad Politécnica para el Desarrollo y la Competitividad (UPDCE) del Instituto Politécnico Nacional (IPN).
+
+Es coautor de un libro cuyo tema es diagnóstico para la mejora de procesos productivos. Ha colaborado en la redacción de capítulos de cinco libros relacionados con el tema de innovación empresarial y emprendimiento. Ha sido responsable de una veintena de proyectos de vinculación Universidad – Empresa; tanto con empresas privadas, entidades gubernamentales Estatales y Municipales; así como organismos empresariales, destacando un convenio internacional firmado con la Cámara de Comercio de Portugal.
+
+Responsable de la gestión de al menos cinco iniciativas de donación de equipo e infraestructura para el Laboratorio de Sistemas Productivos de la Universidad Autónoma Metropolitana Unidad Azcapotzalco. Entre estas iniciativas, destaca la obtención en septiembre de 2023 de 60 licencias del software de simulación avanzada Simio, facilitadas por un generoso subsidio académico de la empresa desarrolladora. Esta herramienta, exclusiva para uso académico, enriquecerá significativamente la docencia e investigación, permitiendo a estudiantes y profesores explorar y aplicar conceptos avanzados en ingeniería y gestión de sistemas productivos. Queremos expresar nuestro sincero agradecimiento a Simio LLC por su compromiso con la excelencia académica y su apoyo a nuestros programas. Para más información, visite https://www.simio.com/.
+
+En noviembre de 2023, respondiendo a la necesidad de mejorar la calidad educativa, se lanzó una iniciativa piloto en el Departamento de Sistemas. Esta se enfoca en aplicar aprendizaje transformativo en la asignatura de Probabilidad y Estadística, Grupo CSI83, con un proyecto específico en el Dispendio Energético en Sistemas de Iluminación del Edificio E. Inspirada en metodologías de la escuela de Harvard, la iniciativa busca acelerar la curva de aprendizaje de los estudiantes, aumentar su capacidad de autoinstrucción y autonomía, y formarlos en el uso de herramientas avanzadas para proyectos de ingeniería aplicada. El objetivo es mejorar y optimizar sistemas específicos, alineando la formación con las demandas tecnológicas y globales actuales.
+
+Además, el liderazgo en la gestión de estas iniciativas demuestra una amplia experiencia y habilidad para dirigir equipos interdisciplinarios, resolver problemas técnicos complejos y adaptarse a entornos empresariales y académicos variados en campos como la ingeniería, docencia, investigación aplicada y desarrollo empresarial.
+
+
+Líneas de investigación:
+
+Explorar cómo los criterios ESG, ambientales, sociales y de gobernanza, pueden potenciar las prácticas de clase mundial en ingeniería y mejorar los sistemas productivos.
+
+Análisis del impacto de la metodología Patent T-Growth Hacking en el cumplimiento de indicadores ESG.
+
+El papel clave de la economía circular y los criterios ESG.
+
+Estudio de los vínculos entre las políticas públicas y los criterios ESG en las empresas mexicanas como una estrategia clave para el crecimiento sostenible y el desarrollo económico del país.
+
+Análisis de la mejora de la productividad empresarial a través de estrategias efectivas de comunicación oral y escrita basadas en herramientas de AI generativas.</Semblanza>
+		<Correo_electrónico type="str">eaj@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> Google académico,.</Trabajo_Académico>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="str">https://books.google.com.pe/books?id=stnhBAAAQBAJ</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="str"> Criterios ambientales, sociales y de gobernanza (ESG),  Metodología Patent T-Growth en indicadores ESG,  Economía circular y criterios ESG,  Criterios ESG en las empresas mexicanas,  Estrategias de comunicación basadas en AI generativa.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 7 Energía asequible y no contaminante,  9 Industria, innovación e infraestructura,  12 Producción y consumo responsable,  13 Acción por el clima,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0006</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Francisco Javier Zaragoza Martínez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/40633</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel II del SNII. Área I Físico Matemáticas y Ciencias de la Tierra</Puesto>
+		<Semblanza type="str">El Doctor Francisco Javier Zaragoza Martínez es Ingeniero en Electrónica por la UAM Unidad Azcapotzalco (1994), es Maestro en Ingeniería por la Sección de Computación del Cinvestav (1997) y es Doctor en Optimización y Combinatoria por la Universidad de Waterloo (2004). Es miembro del Sistema Nacional de Investigadores desde 2005 y Profesor con Perfil Deseable Prodep desde 2004. Desde 2016 es miembro electo de la Academia Mexicana de la Computación y miembro de la Sociedad Mexicana de Investigación de Operaciones.
+
+Fue Profesor de Asignatura en el Departamento de Matemáticas de la Escuela Superior de Física y Matemáticas del IPN (1993-1997) y desde 2004 es Profesor Titular en el Departamento de Sistemas de la UAM Unidad Azcapotzalco. Allí ha sido Coordinador de la Licenciatura en Ingeniería en Computación (2009-2013) y miembro del núcleo básico y del comité de estudios del Posgrado en Optimización fundado en 2012. Junto con tres de sus alumnos de posgrado ganó en 2015 el Discrete Optimization Challenge propuesto por la Friedrich-Alexander-Universität Erlangen-Nürnberg como parte del Open Research Challenge. De 2018 a 2020 fue Profesor Invitado en el Departamento de Matemáticas de dicha universidad alemana, patrocinado por el Servicio Alemán de Intercambio Académico (DAAD) con fondos del Ministerio Federal de Educación e Investigación (BMBF).
+
+Ha publicado al menos veinte artículos en revistas indizadas (JCR, SJR, ZBMATH, Latindex) y al menos treinta en memorias arbitradas de congresos. Ha graduado dos alumnos de doctorado, diez de maestría y más de cuarenta de licenciatura. Ha sido conferencista invitado por la Academia Mexicana de Energía, la Academia Mexicana de Ingeniería, el Consejo Británico, la Real Sociedad Matemática Española, la Sociedad Matemática Americana, la Sociedad Matemática Canadiense, la Sociedad Matemática Mexicana y múltiples universidades y centros de investigación.
+
+Representó a México dos veces en la Olimpiada Internacional de Matemáticas (1988 y 1989) y en la Olimpiada Iberoamericana de Matemáticas (1989). Ha sido responsable en diversas ocasiones de los equipos mexicanos que participan en la Olimpiada Internacional de Informática (1993, 1994, 1996, 1997, 2004, 2005 y 2007). Fue presidente fundador de la Olimpiada Mexicana de Informática (1996) y de la Competencia Iberoamericana de Informática por Correspondencia (1998). Participó en la organización de la Olimpiada Internacional de Matemáticas (2005) y la Olimpiada Internacional de Informática (2006), ambas llevadas a cabo en México. Desde 2004 organiza el Concurso de Programación de la UAM.</Semblanza>
+		<Correo_electrónico type="str">franz@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0001-7570-1483</ORCID_id_autor>
+		<ID_autor_Scopus type="str">18435715600.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com.mx/citations?user=FqxRxPEAAAAJ&amp;hl=en</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Combinatoria, algoritmos y optimización,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Complejidad computacional de problemas de optimización discreta,  Algoritmos de aproximación para problemas de optimización discreta,  Algoritmos de aproximación para problemas de redes geométricas,  Algoritmos y heurísticas para problemas de transporte,  Combinatoria, teoría de gráficas y matemáticas discretas.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 8 Trabajo decente y crecimiento económico,  9 Industria, innovación e infraestructura,  11 Ciudades y comunidades sostenibles,  12 Producción y consumo responsable,  13 Acción por el clima,  16 Paz, justicia e instituciones sólidas,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0007</ID_investigador>
+		<Nombre_Investigador type="str">Dr. José Alejandro Reyes Ortiz</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/75933</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área V Humanidades</Puesto>
+		<Semblanza type="str">El Doctor José Alejandro Reyes Ortiz se graduó como Ingeniero en Sistemas Computacionales en 2006 por el Instituto Tecnológico de Colima, México. Él obtuvo el grado de Maestro en Ciencias de la Computación en 2008 y el grado de Doctor en Ciencias de la Computación en 2013, ambos por el Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET) de Cuernavaca, México.
+
+Actualmente, él es Profesor Investigador de tiempo completo en el Departamento de Sistemas de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana, Azcapotzalco, México. Él obtuvo el Premio a la Docencia por la Unidad Azcapotzalco en 2018 y es miembro del Sistema Nacional de Investigadores por el CONACyT, México.
+
+Sus áreas de investigación son: Procesamiento de Lenguaje Natural (PLN), Lingüística Computacional, Reconocimiento de Patrones, Extracción de Información, Minería de textos, detección de eventos e ingeniería ontológica. Finalmente, el Dr. José Alejandro Reyes Ortiz fue electo Jefe del Departamento de Sistemas para el periodo de 2020 al 2024.</Semblanza>
+		<Correo_electrónico type="str">jaro@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-2111-4982</ORCID_id_autor>
+		<ID_autor_Scopus type="str">57188692429.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com.mx/citations?user=MZtBgzUAAAAJ&amp;hl=es</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Sistemas de información,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Procesamiento de Lenguaje Natural,  Lingüística Computacional,  Extracción de Información,  Reconocimiento de patrones,  Minería de Textos.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 3 Salud y bienestar,  9 Industria, innovación e infraestructura,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0008</ID_investigador>
+		<Nombre_Investigador type="str">Dr. José Antonio Climent Hernández</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/76695</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VI Ciencias Sociales</Puesto>
+		<Semblanza type="str">El Profesor José Antonio Climent Hernández estudió el Doctorado en Ciencias Económicas (Finanzas) en el Instituto Politécnico Nacional (2013). Estudió la Maestría en Ingeniería (Investigación de Operaciones) en la Universidad Nacional Autónoma de México (2004) e hizo su Licenciatura en Actuaría en la misma institución (2001).
+
+Es miembro del Sistema Nacional de Investigadores (2016–2021) y tiene Perfil Deseable PRODEP (2015–2021). Obtuvo el Reconocimiento del 6to. Magno Coloquio de Posgrado en Economía 2018, el Premio de Investigación Arturo Díaz Alonso 2017 en al área de finanzas y la Presea Lázaro Cárdenas 2014 en la categoría de doctorado.
+
+Ha impartido más de 60 cursos de licenciatura para las licenciaturas de ingeniería, administración, actuaría, matemáticas y física como: ingeniería financiera, valuación de opciones, productos financieros derivados, matemáticas financieras, matemáticas actuariales del seguro de personas I, ingeniería de costos, análisis de decisiones I y I, investigación de operaciones I y II, probabilidad y estadística, estadística aplicada a la administración I, estadística I y II, métodos cuantitativos aplicados a la administración I y II, programación I, instrumentos y programas de cálculo, comercio internacional.
+
+También ha impartido más de 10 cursos de posgrado: administración financiera, bases financieras, el laboratorio y el taller de probabilidad y estadística, taller de probabilidad y estadística, introducción a la demografía y a la actuaria, extensión de la cobertura, factores económicos que inciden en las pensiones.
+
+Dirigió 9 trabajos de tesis relacionados con aplicaciones en temas de seguros y pensiones, teoría de juegos, productos financieros derivados, planeación estratégica, ingeniería de sistemas y reingeniería. Ha participado en un trabajo de tesis de maestría con aplicaciones a portafolios de inversión.
+
+Se han publicado más de 10 artículos de investigación y 4 capítulos en libros de investigación. Ha participado en la exposición de más de 65 trabajos de investigación, difusión, extensión de la cultura acerca de temas como: productos financieros derivados, consumo óptimo, portafolios óptimos, estimación de parámetros, tamaño de muestra para encuestas de propósitos múltiples, optimización en la asignación de tripulación aérea, matemáticas financieras, el uso de las bases de datos, programación dinámica para valuación de opciones, software libre en la investigación y la docencia, y la regresión logística en las matemáticas actuariales.
+
+Participó en la ponencia magistral las matemáticas actuariales del seguro de vida aplicadas a la seguridad social: las pensiones privadas en México.
+
+Ha sido asesor de 15 servicios sociales sobre temas de portafolios óptimos, ecuaciones de segundo grado, valor en riesgo sobre productos derivados, forwards y futuros, calculadora de PyMES, muestreo aleatorio simple, primas de riesgo y reservas en curso, sistema criptográfico RSA, distribuciones discretas de probabilidad, teoría de inventarios, programación lineal y teoría de redes.
+
+Participó en el Comité Organizador del 10. y 7. Foro de Finanzas, Administración de Riesgos e Ingeniería Financiera en 2017 y 2014. En el Comité Organizador de la Olimpiada Mexicana de Matemáticas (2004–2012). En el Comité Organizador de la 24. Olimpiada Iberoamericana de Matemáticas. En el Comité Organizador de la 19. a la 24. Olimpiada de Matemáticas del Distrito Federal (2005–2010). En la Coordinación del taller del sistema IRIS 3.0. Agosto de 2005. En el Comité Organizador de la 46. Olimpiada Internacional de Matemáticas.
+
+Actualmente participa en el Comité editorial EUREKA y en el Comité editorial de la Revista Economía y Negocios, y participé en el Comité editorial Estocástica: finanzas y riesgo. 21 de noviembre de 2014 al 1 de enero de 2016.</Semblanza>
+		<Correo_electrónico type="str">jach@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-1507-0290</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=UIWeTq4AAAAJ&amp;hl=es&amp;oi=ao</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Grupo de investigación en mercados e instituciones financieras,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Valuación de opciones financieras,  Productos estructurados,  Ingeniería financiera,  Portafolios de inversión,  Administración de riesgos financieros.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0009</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Juan Villegas Cortez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/47073</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">El Doctor Juan Villegas es originario del puerto de Acapulco, en el estado mexicano de Guerrero, sus raíces familiares son de la zona de La Montaña de Guerrero y de la Costa Chica del Estado. Nace en 1971, y concluye estudios de nivel medio superior en su natal Acapulco. Se traslada a la capital mexicana para realizar estudios en Matemáticas, es egresado de licenciatura por la Universidad Autónoma Metropolitana (UAM), Unidad Iztapalapa, con el título de Matemático, realizando trabajo de investigación en el tema "Técnicas de Simulación Matemática".
+
+Inmediatamente al término de su formación superior ingresa a cursar estudios de Filosofía y Teología, y decide dedicar un año completo de su vida a las comunidades más marginadas por la pobreza en su natal Guerrero, dedicándose a impartir cursos de "hacer cuentas" (operaciones aritméticas básicas) a niños y jóvenes indígenas en comunidades incomunicadas de la zona de Tlacoapa, en la Región de la Montaña, desarrollando y aplicando un método propio para enseñar matemáticas sin conocimiento de la lengua Meh'pah' (Tlapaneco). El año de compromiso se convierte en 15 meses para poder dejar líneas de trabajo para concluir en el largo plazo programas de enseñanza para adultos y otras escuelas y comunidades que demandaban cursos de capacitación.
+
+Posteriormente cambia su lugar de residencia a la ciudad de León, en el Estado mexicano de Guanajuato, donde se dedica un año escolar a dar clases en educación primaria, secundaria y preparatoria, asignaturas en computación y matemáticas.
+
+De regreso a la Ciudad de México ingresa a la Universidad Autónoma Metropolitana (UAM), Unidad Azcapotzalco, a realizar estudios de maestría en Ciencias de la Computación, teniendo como primer tema de investigación la Robótica, pero posteriormente se cambia al área de Reconocimiento de Patrones y Tratamiento Digital de Imágenes, para concluir en esta área su tesis con el trabajo de investigación "Identificación de Tipos de Letra", desarrollando una aplicación para el reconocimiento de tipo de font en un documento electrónico. Contó con el apoyo de la beca CONACYT.
+
+En febrero de 2006 ingresa al Programa de Doctorado en Ciencias de la Computación en el Centro de Investigación en Computación (CIC) del Instituto Politécnico Nacional (IPN), y su tema de tesis doctoral es la "Síntesis automática de Memorias Asociativas mediante Programación Genética", obteniendo el grado de Doctor en Ciencias de la Computación en Diciembre de 2009, teniendo el apoyo del CONACYT como becario.
+
+Desde Febrero de 2010 es Profesor investigador en la Universidad Autónoma Metropolitana, unidad Azcapotzalco, desarrollando su trabajo de investigación y docencia apoyándose de la División de Ciencias Básicas e Ingeniería (D-CBI) y el Departamento de Sistemas, en las líneas de investigación de Reconocimiento de Patrones, Visión por Computadora, Cómputo Bio-inspirado, Cómputo Evolutivo, Memorias Asociativas, Redes Neuronales Artificiales, Procesamiento Digital de Señales y Redes de Computadoras.</Semblanza>
+		<Correo_electrónico type="str">juanvc@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0001-8918-1044</ORCID_id_autor>
+		<ID_autor_Scopus type="str">56013564900.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com.mx/citations?user=J98rBMkAAAAJ&amp;hl=en</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="str"> Visión por computadora,  Algoritmos evolutivos,  Reconocimiento de patrones,  Memorias asociativas,  Procesamiento digital de imágenes.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 4 Educación de calidad,  5 Igualdad de género,  10 Reducción de las desigualdades,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0010</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Lisaura Walkiria Rodríguez Alvarado</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/78915</Perfil_institucional>
+		<Puesto type="str">Profesora Asociada de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Candidata del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">La Profesora Lisaura Rodríguez nació en la Ciudad de León, Nicaragua, el 12 de enero de 1985. Estudió ingeniería industrial en la Universidad Nacional de Ingeniería. Para el año 2009 inició sus estudios de maestría en el Instituto Politécnico Nacional en donde obtuvo el grado de Maestría en Ingeniería de Manufactura, posteriormente, en esa misma institución estudió un doctorado en Ciencias en Ingeniería Mecánica. Actualmente es profesora de la Universidad Autónoma Metropolitana (Unidad Azcapotzalco) y forma parte del Departamento de Sistemas, impartiendo materias de ingeniería industrial.
+
+La profesora Lisaura cuenta con el reconocimiento del perfil Prodep y es jefa del área de Innovación de Sistemas. Dentro de ésta área, desarrollan proyectos de investigación orientados a la mejora continua de los procesos y el enfoque con las tecnologías 4.0. Actualmente es responsable, en conjunto con el profesor Jesús Loyo Quijada, del laboratorio de manufactura con enfoque 4.0, en donde se busca analizar del desempeño de procesos productivos en una célula de manufactura reconfigurable con enfoque 4.0. Esta temática no solo permitirá estar a la vanguardia de las nuevas tecnologías, sino que permitirá incursionar en nuevas líneas de investigación orientadas a la mejora y optimización de los procesos.
+
+La profesora Lisaura ha participado en diversos congresos nacionales e internacionales, así como, ha realizado publicación de su trabajo investigativo en revistas de difusión, indexadas y de impacto como la revista Dyna Ingeniería e Industria. La mayoría de las investigaciones realizadas corresponden a casos prácticos desarrollados en el ámbito industrial, donde destacan las líneas de investigación centradas en el mejoramiento de los procesos productivos, considerando técnicas de estudio de la medición del trabajo, mejora continua y las tecnologías con enfoque 4.0.</Semblanza>
+		<Correo_electrónico type="str">lwra@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  ResearchGate,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-1653-4643</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Procesos productivos con enfoque 4.0,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Sistemas Productivos,  Tecnologías 4,0,  Mejora continua de procesos.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 9 Industria, innovación e infraestructura,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0011</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Marco Antonio Gutiérrez Villegas</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/30113</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor Marco Antonio Gutiérrez Villegas nació en Chapulhuacan, Estado de Hidalgo en Junio de 1960. Estudió la Licenciatura en Física y Matemáticas en la Escuela Superior de Física y Matemáticas del Instituto Politécnico Nacional. Maestría en la Escuela Superior de Física y Matemáticas del IPN. Grado de Maestro y Doctor en Ciencias por la Escuela Superior de Ingeniería Mecánica y Eléctrica del IPN. Se incorporó a la Universidad Autónoma Metropolitana en 1985 y es Profesor Titular desde 1995.</Semblanza>
+		<Correo_electrónico type="str">magv@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  ResearchGate,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-3168-5845</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="str"> Diferencias finitas,  Elemento finito,  Elemento frontera,  Solución de ecuaciones no lineales, convergencia de tercer orden,  Aplicación de las EDO y EDP.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0012</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Martha Mora Torres</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/68947</Perfil_institucional>
+		<Puesto type="str">Profesora Asociada de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">La Doctora Martha Mora Torres es Ingeniera en Electrónica por la Universidad Autónoma Metropolitana, Maestría en Ingeniería (Computación) y Doctorado en Ciencias (Computación) por la Universidad Nacional Autónoma de México.
+
+Actualmente es Profesora Investigadora Asociado D de tiempo completo definitivo en el Área de Optimización Combinatoria. Área de especialidad: representación del conocimiento con incertidumbre aplicadas al diseño cognitivo, arquitecturas multiagente, emociones sintéticas y consciencia artificial. Reconocimiento PRODEP.</Semblanza>
+		<Correo_electrónico type="str">mmt@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-1395-2441</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=7qCdjb4AAAAJ&amp;hl=es</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Combinatoria, algoritmos y optimización,.</Cuerpo_académico>
+		<Intereses_de_investigación type="str"> Representación del conocimiento,  Modelos cognitivos,  Multiagentes,  Computación afectiva,  Consciencia artificial.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 4 Educación de calidad,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0013</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Román Anselmo Mora Gutiérrez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/71625</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área I Físico Matemáticas y Ciencias de la Tierra</Puesto>
+		<Semblanza type="str">El Profesor Román Anselmo Mora Gutiérrez es Ingeniero Forestal Industiral (UACh), Maestría y Doctorado en Ingeniería (Sistemas _ investigación de operaciones_ ) por la Universidad Nacional Autónoma de México (Años 2009 y 2013, rpectivamente). Adscripción actual al en el departamento de Sistemas Universidad Autónoma Metropolitana unidad Azcapotzalco.
+
+Soy miembro del Sistema Nacional de Investigadores con el nivel 1 desde 2014 a la fecha. Cuento con el perfil deseable PROMEP desde 2014 a la fecha. He publicado más de seis capítulos de libros y más de 20 artículos indezados. Cuento con más de 170 citas. En formación de recursos humanos he dirigido de 11 tesis de licenciatura, seis tesis de Maestría y dos de soctorado; actualmente, soy coodirector de dos tesis de doctorado, codirector en tres de maestría y codirector de tres de licenciatura. Dentro de la UAM-Azcapotzalco he participado como miembro de los comités de de estudios del posgrado de optimización (periodo 2016-2017), maestría en computación del 2019 a la fecha y Diseño y visualización de la información
+del 2019 a la fecha; adicionalmente fui responsable del grupo temático de Toma de Decisiones del 2013 al 2015 .
+
+Mis principales áreas de en investigación son métodos heurísticos y metaheurísticos (énfasis en aquellos que imitan el comportamiento social y cultural) para la optimización continua y discreta, modelación de sistemas sociales y ambientales, aplicaciones de biocomputación</Semblanza>
+		<Correo_electrónico type="str">mgra@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-2112-7049</ORCID_id_autor>
+		<ID_autor_Scopus type="str">54879377900.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com.mx/citations?hl=es&amp;user=Ne_S0V8AAAAJ&amp;view_op=list_works&amp;sortby=pubdate</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="str"> Métodos heurísticos y metaheurísticos,  Optimización continua,  Modelación de sistemas sociales y ambientales.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 1 Fin de la pobreza,  4 Educación de calidad,  15 Vida de ecosistemas terrestres,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0014</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Yadira Zavala Osorio</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/52731</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VI Ciencias Sociales</Puesto>
+		<Semblanza type="str">Rectora de la Unidad Azcapotzalco para el periodo 2023-2027
+
+La Doctora Yadira Zavala Osorio estudió la licenciatura en Ingeniería Industrial en la Universidad Autónoma Metropolitana, Unidad Azcapotzalco, la Maestría en Ingeniería en la Facultad de Ingeniería, Universidad Nacional Autónoma de México (UNAM) y obtuvo el grado de Doctora en Estudios Organizacionales por la Universidad Autónoma Metropolitana, Unidad Iztapalapa.
+
+Actualmente es Profesora Investigadora de Tiempo Completo Asociado C del Departamento de Sistemas, Universidad Autónoma Metropolitana, Unidad Azcapotzalco, donde ingreso en noviembre de 1998 como ayudante, posteriormente empezó a colaborar como profesora de tiempo parcial y desde entonces ha impartido diversas materias tales como: Seguridad e Higiene Industrial, Psicología Industrial, Organización Industrial, Taller de planeación y Ejecución de Proyectos, Análisis de Decisiones I y II, Ingeniería de Costos, entre otras. De 2008 a 2010 fue Secretaria Académica de la División de Ciencias Básicas e Ingeniería.
+
+Asimismo, de 2012-2013 colaboró en la Facultad de estudios Superiores Aragón (UNAM) como Jefa de Carrera de Ingeniería Industrial y hasta mayo del 2017 participó como profesora de asignatura en la Facultad de Estudios Superiores Aragón (UNAM).
+
+La doctora, ha participado como sínodo en exámenes de grado de varios alumnos de la Maestría en Ingeniería de la Universidad Nacional Autónoma de México (UNAM) y de la Maestría en Estudios Organizacionales, UAM-Iztapalapa.
+
+En el ámbito profesional, laboró como Ingeniera Industrial en la empresa denominada Grupo IMPRESSA y en GPI México, cuya actividad principal consistió en la elaboración de diagnósticos y detección de áreas de oportunidad, participó en el desarrollo de metas e indicadores de la Comisión Federal para la Protección contra Riesgos Sanitarios(COFEPRIS), asimismo, fue parte del grupo de trabajo en la elaboración de metas para la evaluación del desempeño del personal del Instituto Nacional de Estadística y Geografía (INEGI) y participó en el fortalecimiento del perfil de la Secretaría de Salud.
+
+Colaboró en la realización de publicaciones relativas a los retos de las sociedades del conocimiento, al desarrollo de tecnología e investigación sobre el petróleo en México, la competitividad empresarial, la educación a distancia, asimismo, ha participado en la coordinación e impartición de diplomados sobre logística y cadena de suministro. actualmente, su investigación va en dos vertientes; la primera relacionada con el impacto de la seguridad e higiene de las organizaciones, y la segunda con respecto al análisis de las variables organizacionales, particularmente en las escuelas de educación superior.</Semblanza>
+		<Correo_electrónico type="str">yzo@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0001-5337-6624</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.es/scholar?hl=es&amp;as_sdt=0%2C5&amp;q=Yadira+Zavala+Osorio&amp;btnG=</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="str"> Cultura organizacional,  Identidad organizacional,  Organización Industrial,  Seguridad Industrial,  Higiene Industrial.</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str"> 8 Trabajo decente y crecimiento económico,  9 Industria, innovación e infraestructura,.</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0015</ID_investigador>
+		<Nombre_Investigador type="str">Mtro. Arturo Aguilar Vázquez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/32783</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Maestro Arturo Aguilar Vázquez es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">aav@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> Scopus.</Trabajo_Académico>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="str">8868823600.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0016</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Domingo Rodríguez Benavides</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/68893</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VI Ciencias Sociales</Puesto>
+		<Semblanza type="str">El Doctor Domingo Rodríguez Benavides es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">dorobe@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-9169-687X</ORCID_id_autor>
+		<ID_autor_Scopus type="str">57189851031.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Grupo de investigación en mercados e instituciones financieras.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0017</ID_investigador>
+		<Nombre_Investigador type="str">Mtro. Enrique Rebora Togno</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/3877</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Enrique Rebora Togno es Profesor e Investigador en el Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Universidad Autónoma Metropolitana (UAM) Unidad Azcapotzalco.</Semblanza>
+		<Correo_electrónico type="str">ert@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0018</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Francisco Cervantes De la Torre</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/29463</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Francisco Cervantes De la Torre estudió la Licenciatura en Física por la Universidad Nacional Autónoma de México (UNAM), la Maestría en Ciencias con especialidad en Física por el Instituto Politécnico Nacional (IPN) y el Doctorado en Ciencias con especialidad en Física No Lineal por la UAEMEX.
+
+Actualmente es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">fcdt@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-1463-8510</ORCID_id_autor>
+		<ID_autor_Scopus type="str">7102481967.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Cómputo y visualización científica.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0019</ID_investigador>
+		<Nombre_Investigador type="str">Mtro. German Téllez Castillo</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/36517</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Germán Téllez Castillo estudió la Licenciatura en Matemáticas y la Mestría en en Ciencias, Computación por el Instituto Politécnico Nacional (IPN). Actualmente es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">tcg@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0020</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Gueorgi Khatchatourov</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/45567</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Gueorgi Khatchatourov es Doctor en Cibernética por el Leningrad Polythechnic Institute y Maestro en Matemáticas, Ciencias de la Computación por el Leningrad State University.
+
+Actualmente es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">xgeorge@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0021</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Héctor Javier Vázquez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/7899</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor Héctor Javier Vázquez imparte docencia en el Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería en la Universidad Autónoma Metropolitana (UAM) Unidad Azcapotzalco.</Semblanza>
+		<Correo_electrónico type="str">hjv@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0022</ID_investigador>
+		<Nombre_Investigador type="str">Mtro. Hugo Pablo Leyva</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/34359</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel A de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Hugo Pablo Leyva es Maestro en Ciencias de la Computación por la Universidad Autónoma Metropolitana (UAM). Actualmente un Profesor Titular de Carrera Nivel A de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM.</Semblanza>
+		<Correo_electrónico type="str">hpl@correo.azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-3009-9737</ORCID_id_autor>
+		<ID_autor_Scopus type="str">57192675013.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0023</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Jaime Rodríguez Díaz</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/20921</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor Jaime Rodríguez Díaz es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">rdj@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0024</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Jesús Isidro González Trejo</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/33257</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">El Doctor Jesús Isidro González Trejo es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana UAM.</Semblanza>
+		<Correo_electrónico type="str">gtji@correo.azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="str">6507003187.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=oY8ynxgAAAAJ&amp;hl=es</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Cómputo y visualización científica.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0025</ID_investigador>
+		<Nombre_Investigador type="str">Prof. Jesús Loyo Quijada</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/39353</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Prof. Jesús Loyo Quijada es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">lqj@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-2713-723X</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Procesos productivos con enfoque 4.0.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0026</ID_investigador>
+		<Nombre_Investigador type="str">Dr. José Ángel Hernández Rodríguez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/31747</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor José Ángel Hernández Rodríguez es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">hrja@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0027</ID_investigador>
+		<Nombre_Investigador type="str">Prof. José Luis Pantoja Gallegos</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/7713</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel A de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor José Luis Pantoja Gallegos imparte docencia en el Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería en la Universidad Autónoma Metropolitana (UAM) Unidad Azcapotzalco.</Semblanza>
+		<Correo_electrónico type="str">jpg@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0028</ID_investigador>
+		<Nombre_Investigador type="str">Mtro. Josué Figueroa González</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/63737</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Maestro Josué Figueroa González es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">jfgo@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  ResearchGate,  Scopus.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0001-8876-2664</ORCID_id_autor>
+		<ID_autor_Scopus type="str">57194563460.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0029</ID_investigador>
+		<Nombre_Investigador type="str">Prof. Juan de la Cruz Mejía Téllez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/5513</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Juan de la Cruz Mejía Téllez imparte docencia en el Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Universidad Autónoma Metropolitana (UAM) Unidad Azcapotzalco.</Semblanza>
+		<Correo_electrónico type="str">jmt@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-0664-0087</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0030</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Leonardo Daniel Sánchez Martínez</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/79775</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor Leonardo Daniel Sánchez Martínez es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">juanvc@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="str">55988125400.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Sistemas de información.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0031</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Luis Fernando Hoyos Reyes</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/37089</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VI Ciencias Sociales</Puesto>
+		<Semblanza type="str">El Doctor Luis Fernando Hoyos Reyes es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">hlrf@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0001-6456-0259</ORCID_id_autor>
+		<ID_autor_Scopus type="str">8054726600.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.es/citations?user=RHGFnMoAAAAJ&amp;hl=en</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Grupo de investigación en mercados e instituciones financieras.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0032</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Marco Antonio Heredia Velasco</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/75935</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área II Biología y Química</Puesto>
+		<Semblanza type="str">El Doctor Marco Antonio Heredia Velasco es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">magv@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-0053-5756</ORCID_id_autor>
+		<ID_autor_Scopus type="str">37107692000.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=j2HBjUgAAAAJ&amp;hl=es</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Combinatoria, algoritmos y optimización.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0033</ID_investigador>
+		<Nombre_Investigador type="str">Mtra. Margarita María de Lourdes Sánchez Guerrero</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/30593</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">La Maestra Margarita María de Lourdes Sánchez Guerrero es una Profesora Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">magv@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-7975-5179</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0034</ID_investigador>
+		<Nombre_Investigador type="str">Dra. María Guadalupe Henaine Abed</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/21807</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">La Doctora María Guadalupe Henaine Abed es una Profesora Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">ham@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0035</ID_investigador>
+		<Nombre_Investigador type="str">Dra. María Lizbeth Gallardo López</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/61761</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Candidata del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">La Profesora María Lizbeth Gallardo López es Maestra en Ciencias de la Computación por la Universidad Autónoma Metropolitana (UAM) y Doctora por la Universidad de Guadalajara. Actualmente es una Profesora Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM.</Semblanza>
+		<Correo_electrónico type="str">glizbeth@correo.azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="str">36608035400.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=0c7LqKcAAAAJ</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0036</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Maricela Claudia Bravo Contreras</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/71621</Perfil_institucional>
+		<Puesto type="str">Profesora Asociada de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VI Ciencias Sociales</Puesto>
+		<Semblanza type="str">La Profesora Maricela Claudia Bravo Contreras es Doctora en Ciencias de la Computación por el Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET).
+
+Actualmente es una Profesora Asociada de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">glizbeth@correo.azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-3493-9131</ORCID_id_autor>
+		<ID_autor_Scopus type="str">56000907900.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=MgqDfVQAAAAJ&amp;hl=es&amp;oi=ao</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Sistemas de información.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0037</ID_investigador>
+		<Nombre_Investigador type="str">Mtro. Mario Ulises Larque Saavedra</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/37199</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Maestro Mario Ulises Larque Saavedra es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">glizbeth@correo.azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ResearchGate.</Trabajo_Académico>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0038</ID_investigador>
+		<Nombre_Investigador type="str">Mtra. Martha Hanel González</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/48557</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel A de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">La Maestra Martha Hanel González es una Profesora Titular de Carrera Nivel A de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">mhanel@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0039</ID_investigador>
+		<Nombre_Investigador type="str">Prof. Miguel Ángel Abreu Hernández</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/33477</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel A de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Prof. Miguel Ángel Abreu Hernández es un Profesor Titular de Carrera Nivel A de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">maah@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0040</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Miguel Ángel López Ontiveros</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/46371</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">El Profesor Miguel Ángel López Ontiveros es Ingeniero Industrial por la Universidad Autónoma Metropolitana (UAM), Maestro en Ingeniería de Sistemas por el Instituto Politécnico Nacional y Doctor en Ingeniería Industrial por el Institut National Polytechnique de Grenoble, Francia.
+
+Actualmente es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM.</Semblanza>
+		<Correo_electrónico type="str">mlopez@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-0885-2262</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Procesos productivos con enfoque 4.0.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0041</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Nicolás Domínguez Vergara</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/60943</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor Nicolás Domínguez Vergara es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">mlopez@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-4982-3852</ORCID_id_autor>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0042</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Óscar Herrera Alcántara</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/49657</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área I Físico Matemáticas y Ciencias de la Tierra</Puesto>
+		<Semblanza type="str">El Profesor Óscar Herrera Alcántara es Ingeniero en Electrónica por la Universidad Autónoma Metropolitana (UAM), Maestro y Doctor en Ciencias de la Computación por el Instituto Politécnico Nacional (IPN).
+
+Actualmente es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM.</Semblanza>
+		<Correo_electrónico type="str">oha@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-7488-0333</ORCID_id_autor>
+		<ID_autor_Scopus type="str">26635317600.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=OtF_JFoAAAAJ</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0043</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Rafael López Bracho</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/19705</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Doctor Rafael López Bracho es un Profesor Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">oha@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-3318-5932</ORCID_id_autor>
+		<ID_autor_Scopus type="str">6602338913.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=uYY8n0kAAAAJ&amp;hl=en</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Combinatoria, algoritmos y optimización.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0044</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Rodrigo Alexander Castro Campos</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/71623</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Profesor Rodrigo Alexander Castro Campos en Ingeniero en Computación por la Universidad Autónoma Metropolitana (UAM), Maestro en Ciencias de la Computación por el Centro de Investigación en Computación y Doctor en Optimización por la UAM.
+
+Actualmente es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM.</Semblanza>
+		<Correo_electrónico type="str">oha@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0003-2275-5511</ORCID_id_autor>
+		<ID_autor_Scopus type="str">57188761307.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=ghvcmBEAAAAJ&amp;hl=es&amp;oi=ao</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str"> Combinatoria, algoritmos y optimización.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0045</ID_investigador>
+		<Nombre_Investigador type="str">Dr. Ruslan Gabbasov</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/83851</Perfil_institucional>
+		<Puesto type="str">Profesor Asociado de Carrera Nivel D de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Nivel I del SNII. Área I Físico Matemáticas y Ciencias de la Tierra</Puesto>
+		<Semblanza type="str">El Doctor Ruslan Gabbasov es un Profesor Asociado de Carrera Nivel D de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">gabbasov@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  ResearchGate,  Scopus,.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0002-1578-1589</ORCID_id_autor>
+		<ID_autor_Scopus type="str">56002754000.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="str"> Cómputo y visualización científica.</Cuerpo_académico>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0046</ID_investigador>
+		<Nombre_Investigador type="str">Dra. Silvia Beatriz González Brambila</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/34647</Perfil_institucional>
+		<Puesto type="str">Profesora Titular de Carrera Nivel C de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería
+
+Candidata del SNII. Área VIII Ingenierías y Desarrollo Tecnológico</Puesto>
+		<Semblanza type="str">La Profesora Silvia Beatriz González Brambila estudió la Licenciatura en Computación y la Maestría en Ciencias de la Computación por la Universidad Autónoma Metropolitana (UAM), es Doctora en Ciencias Computacionales por el Instituto Tecnológico y de Estudios Superiores de Monterrey.
+
+Actualmente es una Profesora Titular de Carrera Nivel C de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la UAM.</Semblanza>
+		<Correo_electrónico type="str">sgb@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="str"> ORCID,  Google académico,  ResearchGate,  Scopus.</Trabajo_Académico>
+		<ORCID_id_autor type="str">0000-0001-7298-4094</ORCID_id_autor>
+		<ID_autor_Scopus type="str">6504566514.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">https://scholar.google.com/citations?user=5GzIGVsAAAAJ&amp;hl=es&amp;oi=ao</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="str">INV0047</ID_investigador>
+		<Nombre_Investigador type="str">Prof. Víctor Manuel Alvear Leyva</Nombre_Investigador>
+		<Perfil_institucional type="str">https://investigacion.uam.mx/index.php/listado-catalogo/32945</Perfil_institucional>
+		<Puesto type="str">Profesor Titular de Carrera Nivel A de Tiempo Completo
+Departamento de Sistemas
+División de Ciencias Básicas e Ingeniería</Puesto>
+		<Semblanza type="str">El Prof. Víctor Manuel Alvear Leyva es un Profesor Titular de Carrera Nivel A de Tiempo Completo dentro del Departamento de Sistemas de la División de Ciencias Básicas e Ingeniería de la Unidad Azcapotzalco de la Universidad Autónoma Metropolitana (UAM).</Semblanza>
+		<Correo_electrónico type="str">alvear@azc.uam.mx</Correo_electrónico>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="null"/>
+		<Nombre_Investigador type="null"/>
+		<Perfil_institucional type="null"/>
+		<Puesto type="null"/>
+		<Semblanza type="null"/>
+		<Correo_electrónico type="null"/>
+		<Trabajo_Académico type="null"/>
+		<ORCID_id_autor type="null"/>
+		<ID_autor_Scopus type="null"/>
+		<Perfil_en_Google_Académico type="null"/>
+		<Cuerpo_académico type="null"/>
+		<Intereses_de_investigación type="null"/>
+		<Incidencia_en_los_ODS_ONU type="null"/>
+	</item>
+	<item type="dict">
+		<ID_investigador type="null"/>
+		<Nombre_Investigador type="str">47</Nombre_Investigador>
+		<Perfil_institucional type="str">47</Perfil_institucional>
+		<Puesto type="str">47</Puesto>
+		<Semblanza type="str">47</Semblanza>
+		<Correo_electrónico type="str">47</Correo_electrónico>
+		<Trabajo_Académico type="str">36</Trabajo_Académico>
+		<ORCID_id_autor type="str">30</ORCID_id_autor>
+		<ID_autor_Scopus type="str">24.0</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">21</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str">21</Cuerpo_académico>
+		<Intereses_de_investigación type="str">14</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str">12</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="null"/>
+		<Nombre_Investigador type="str">1</Nombre_Investigador>
+		<Perfil_institucional type="str">1</Perfil_institucional>
+		<Puesto type="str">1</Puesto>
+		<Semblanza type="str">1</Semblanza>
+		<Correo_electrónico type="str">1</Correo_electrónico>
+		<Trabajo_Académico type="str">0.7659574468085106</Trabajo_Académico>
+		<ORCID_id_autor type="str">0.6382978723404256</ORCID_id_autor>
+		<ID_autor_Scopus type="str">0.5106382978723404</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">0.44680851063829785</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str">0.44680851063829785</Cuerpo_académico>
+		<Intereses_de_investigación type="str">0.2978723404255319</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str">0.2553191489361702</Incidencia_en_los_ODS_ONU>
+	</item>
+	<item type="dict">
+		<ID_investigador type="null"/>
+		<Nombre_Investigador type="str">1</Nombre_Investigador>
+		<Perfil_institucional type="str">1</Perfil_institucional>
+		<Puesto type="str">1</Puesto>
+		<Semblanza type="str">1</Semblanza>
+		<Correo_electrónico type="str">1</Correo_electrónico>
+		<Trabajo_Académico type="str">0.7659574468085106</Trabajo_Académico>
+		<ORCID_id_autor type="str">0.6382978723404256</ORCID_id_autor>
+		<ID_autor_Scopus type="str">0.5106382978723404</ID_autor_Scopus>
+		<Perfil_en_Google_Académico type="str">0.44680851063829785</Perfil_en_Google_Académico>
+		<Cuerpo_académico type="str">0.44680851063829785</Cuerpo_académico>
+		<Intereses_de_investigación type="str">0.2978723404255319</Intereses_de_investigación>
+		<Incidencia_en_los_ODS_ONU type="str">0.2553191489361702</Incidencia_en_los_ODS_ONU>
+	</item>
+</all>
