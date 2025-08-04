@@ -1,6 +1,3 @@
-# BD_Perfiles_Academicos_sistemas_UAM
-Conjunto de datos estructurado de perfiles académicos y publicaciones, recolectado desde plataformas públicas como ORCID, Scopus, Google Scholar y el portal institucional UAM, con el objetivo de alimentar un sistema de recomendación basado en grafos de conocimiento.
-
 # Dataset de Perfiles Académicos - UAM
 
 Este repositorio contiene el dataset generado como parte del trabajo titulado:
@@ -73,6 +70,3 @@ El dataset fue construido a partir de la recolección, validación y estructurac
 
 Este dataset se distribuye con fines académicos y de investigación. Los datos provienen de fuentes públicas y se respetan las políticas de uso de cada plataforma. Si reutilizas este dataset, por favor cita este repositorio o la publicación asociada.
 
----
-
-## ✏️ Cita sugerida
